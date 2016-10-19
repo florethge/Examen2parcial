@@ -1,0 +1,8 @@
+.titulo{font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif; font-size: xx-large; font-weight: bold; color: #F7F8E0;}
+.subtitulo{font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif; font-size: medium;}
+.cuerpo{font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif; font-size: small;}
+
+body  {
+    background-image: url("https://www.skotcher.com/wall/cf578d2b6f52fdc832bf63b82fc2427d/gray-grey-minimal-trees.jpg");
+    background-color: #cccccc;
+}
